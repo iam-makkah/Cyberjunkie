@@ -27,6 +27,7 @@ and recommending improvements to overall cybersecurity posture.
 #### 🔎 Investigating and Mitigating Security Threats through SQL Queries
 - Used SQL queries to investigate security events and identify suspicious activity
 - Analyzed data patterns to support threat detection and mitigation
+- 📁 Folder: https://github.com/iam-makkah/Portfolio/blob/main/hands-on-projects/sql-based-security-investigation/Investigate%20%26%20Mitigate%20threat%20using%20SQL%20queries.pdf
 
 #### 🚨 Data Leak Investigation and Recommendations
 - Investigated a simulated data leak scenario
