@@ -29,25 +29,9 @@ and recommending improvements to overall cybersecurity posture.
 - Analyzed data patterns to support threat detection and mitigation
 - 📁 Folder: https://github.com/iam-makkah/Portfolio/blob/main/hands-on-projects/sql-based-security-investigation/Investigate%20%26%20Mitigate%20threat%20using%20SQL%20queries.pdf
 
-#### 🚨 Data Leak Investigation and Recommendations
-- Investigated a simulated data leak scenario
-- Identified possible causes, assessed impact, and provided security recommendations
-
 #### 🐧 File System Security and Access Control in Linux
 - Configured and analyzed Linux file permissions, ownership, and access controls
 - Applied basic system hardening and security best practices
-
-#### 🧠 Threat Modeling using the PASTA Framework
-- Applied the PASTA methodology to analyze threats and attack surfaces
-- Documented risks, vulnerabilities, and mitigation strategies
-
-#### 📝 Security Incident Report
-- Created structured security incident reports based on simulated incidents
-- Documented detection, response actions, and lessons learned
-
-#### 🛡️ Vulnerability Assessment Report
-- Conducted vulnerability assessments in a simulated environment
-- Identified security risks and recommended remediation measures
 
 ---
 
