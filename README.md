@@ -1,7 +1,7 @@
 # Cyberjunkie
 ## Hi, I’m Makkah 👋
 I’m an aspiring Cybersecurity professional with hands-on experience in security investigations,
-incident reporting, threat modeling, Linux system security, networking, basic python scripting. My interests include security
+incident reporting, Linux system security, networking, basic python scripting. My interests include security
 operations, access control, risk assessment, and incident response.
 ---
 
