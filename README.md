@@ -32,7 +32,7 @@ and recommending improvements to overall cybersecurity posture.
 #### 🐧 File System Security and Access Control in Linux
 - Configured and analyzed Linux file permissions, ownership, and access controls
 - Applied basic system hardening and security best practices
-
+- 📁 Folder: https://github.com/iam-makkah/Portfolio/blob/main/hands-on-projects/linux-file-system-security/File%20permissions%20in%20Linux.pdf
 ---
 
 ### 📜 Certifications
